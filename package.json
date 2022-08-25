@@ -1,0 +1,19 @@
+{
+  "name": "com.elicxir.soundsystem",
+  "version": "1.0.0",
+  "displayName": "SoundSystem",
+  "description": "simple sound system for unity 2d project",
+  "author": {
+    "name": "ELICXIR"
+  },
+    "dependencies": {
+    "com.cysharp.unitask": "2.3.1"
+  },
+  "samples": [
+    {
+        "displayName": "SoundSystem",
+        "description": "Assets for easy installing Sound Systems",
+        "path": "Samples~/SoundSystem"
+    }
+]
+}
